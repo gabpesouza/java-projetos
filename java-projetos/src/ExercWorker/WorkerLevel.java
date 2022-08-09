@@ -1,3 +1,5 @@
+package ExercWorker;
+
 
 
 public enum WorkerLevel {
